@@ -5,3 +5,5 @@ The aim of this project was to investigate diversification of ancient crocodiles
 diversification rate data for Pseudosuchia (fossilCrocDiversificationData.txt), and habitat data for Pseudosuchia (HabitatData.csv). It also included environmental data such as global temperature through time (temperatureTimeSeries.csv) and global sea level through time (seaLevelTimeSeries.csv).
 
 Unfortunately, I can't upload this data to Git since the files are too large, but they're publicly available here: https://www-users.york.ac.uk/~kd856/WorkshopData/
+
+For this project I plotted and analysed time series from environmental and diversification data using BAMM/fossilBAMM, conducted correlation analyses between time series, created phylogenetic trees using phytools, and created histograms and tested for statistical significance using ggplot2. 
