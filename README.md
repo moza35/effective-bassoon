@@ -1,7 +1,13 @@
 # effective-bassoon
-# Welcome to GitHub Desktop!
+# This is a repository for a big data project I conducted in my second year of my BSc. I have prepared this for the LIDA data scientist role at the University of Leeds. Unfortunately, this is the only project that I previously worked on that I can upload publically since the others included human genomic data. 
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+The aim of this project was to investigate diversification of ancient crocodiles over time and its link to environmental change. For this project, I was provided with a macroevolutionary and environmental data set that explores the macroevolutionary drivers of a vertebrate clade called Pseudosuchia (crocodiles plus their extant & extinct relatives). This included:
+A time-calibrated phylogenetic tree of Pseudosuchia (fossilCrocPhylogeny.tre).
+Diversification rate data for Pseudosuchia (fossilCrocDiversificationData.txt).
+Habitat data for Pseudosuchia (HabitatData.csv).
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-moza
+and environmental data:
+global temperature through time (temperatureTimeSeries.csv).
+global (eustatic) sea level through time (seaLevelTimeSeries.csv).
+
+Unfortunately, I can't upload this data to Git since the files are too large, but they're publically available here: https://www-users.york.ac.uk/~kd856/WorkshopData/
